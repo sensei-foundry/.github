@@ -13,5 +13,4 @@ To build the next generation of digital products for Africa and the world — pr
 
 ## Contacts
 - Website: [senseifoundry.com](https://senseifoundry.com)
-- Email: hello@senseifoundry.com  
-- GitHub: [github.com/senseifoundry](https://github.com/sensei-foundry)
+- Email: hello@senseifoundry.com
